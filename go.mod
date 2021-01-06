@@ -16,6 +16,6 @@ require (
 	github.com/smallstep/cli v0.13.3
 	github.com/smallstep/nosql v0.2.0
 	github.com/urfave/cli v1.22.2
-	golang.org/x/crypto v0.0.0-20200117160349-530e935923ad
+	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
 	gopkg.in/square/go-jose.v2 v2.4.1 // indirect
 )
